@@ -8,7 +8,7 @@ function Header() {
         <p className="navParagraph">Frete grátis para todo o Brasil</p>
       </nav>
       <section className="hero">
-        <img src={logo} className="heroLogo" />
+        <img src={logo} className="heroLogo" alt="jogador jhordan fazendo uma sexta"/>
         <div className="heroTexts">
           <h2 className="HeroTitle">A melhor loja de Jordan</h2>
           <p className="HeroParagraph">
