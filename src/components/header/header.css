@@ -1,14 +1,49 @@
 .header {
+  height: 464px;
+  color: #fff;
+}
+.nav {
   background: #f3f7ff;
   height: 64px;
   display: flex;
   justify-content: center;
 }
-.headerParagraph {
+.navParagraph {
   font-family: Archivo;
   font-size: 24px;
   font-weight: 500;
   line-height: 26px;
   letter-spacing: 0em;
   align-self: center;
+  color: #121214;
+}
+.hero {
+  background-image: url(../../image/haderImage.png);
+  height: 400px;
+}
+.heroLogo {
+  width: 203px;
+  height: 48px;
+  margin: 94px 0 40px 352px;
+}
+.heroTexts {
+  margin: 0 0 0 352px;
+}
+.HeroTitle {
+  font-family: Archivo;
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 35px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin: 0 0 20px;
+}
+.heroParagraph {
+  font-family: Archivo;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 34px;
+  letter-spacing: 0em;
+  text-align: left;
+
 }
